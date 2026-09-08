@@ -1,5 +1,5 @@
-@Sigma-Works
-@fgtrzah
+[Sigma-Works](https://github.com/Sigma-Works)
+[fgtrzah](https://github.com/fgtrzah)
 
 # Unitree R1 ("Adam") — iCode Setup Notes
 
