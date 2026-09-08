@@ -1,3 +1,6 @@
+@Sigma-Works
+@fgtrzah
+
 # Unitree R1 ("Adam") — iCode Setup Notes
 
 Blunt, step-by-step record of getting a Mac talking to a Unitree R1 over
